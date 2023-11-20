@@ -5,7 +5,6 @@ import 'package:folio/provider/app_provider.dart';
 import 'package:folio/responsive/responsive.dart';
 import 'package:folio/utils/utils.dart';
 import 'package:provider/provider.dart';
-import 'package:folio/configs/app_dimensions.dart';
 
 class SocialLinks extends StatelessWidget {
   const SocialLinks({
